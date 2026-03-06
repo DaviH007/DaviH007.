@@ -8,7 +8,7 @@ Most of my projects are focused on learning, experimenting, and improving my dev
 If I can imagine a project, chances are I'll try to build it.
 Of course, if it doesn't work out, I'm happy just with the learning I gained.
 
-My main Tech Stack is C++, HTML / CSS, JavaScript, Git & GitHub. Currently Learning Java, Data Structures, Algorithms, Backend Development, Web Development
+My main Tech Stack is C++, HTML / CSS, JavaScript, TypeScript, Git & GitHub. Currently Learning Java, Data Structures, Algorithms, Backend Development, Web Development
 
 ## 🧠 Interests
 
